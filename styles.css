@@ -1,6 +1,13 @@
-h2 { 
-    font-size:40px;
+h2 {  font-size:40px;
     color:rgb(247, 199, 207);
+    font-style: italic;
+    font-family: 'Babylonica', cursive;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+p{
+    font-size:40px;
+    color:rgb(167, 76, 91);
     font-style: italic;
     font-family: 'Babylonica', cursive;
 font-family: 'Montserrat', sans-serif;
