@@ -47,13 +47,13 @@ font-family: 'Montserrat', sans-serif;
     max-width:800px;
     margin:0 auto ;
     padding: 0 10px;
-    background-color: cornflowerblue;
+    background-color: rgb(147, 178, 235);
 }
 
 .footer{
     height:100px;
     text-align:center ;
     padding:10px 0;
-    background-color:cornflowerblue
+    background-color:rgb(195, 212, 241)
 }
 
