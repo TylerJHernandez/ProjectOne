@@ -41,14 +41,17 @@ font-family: 'Montserrat', sans-serif;
     text-align:center;
     padding-top: 90px;
     background-color: cornflowerblue;
+    overflow: hidden;
 }
 .body{
-    width:800px;
+    max-width:800px;
     margin:0 auto ;
     padding: 0 10px;
 }
 
 .footer{
     height:100px;
+    text-align:center ;
+    padding:10px 0;
 }
 
