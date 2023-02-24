@@ -32,7 +32,11 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .tylers-button {
-
+    border-style: solid;
+    border-color: rgb(127, 59, 216);
+    border-width: 2px;
+    background-color: rgb(186, 219, 228);
+    box-shadow: inset;
 
 }
 
