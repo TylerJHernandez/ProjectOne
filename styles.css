@@ -26,5 +26,7 @@ font-family: 'Montserrat', sans-serif;
 
 .buttons-links {
     border-style: solid;
-    border-color:cornsilk
+    border-color: crimson;
+    border-width: 2px;
+
 }
