@@ -7,6 +7,13 @@ html{
     scroll-behavior: smooth;
 }
 
+h1{font-size:50px;
+    color:rgb(97, 20, 32);
+    font-style: italic;
+    font-family: 'Babylonica', cursive;
+    font-family: 'Montserrat', sans-serif;
+
+}
 h2 {  font-size:50px;
     color:rgb(97, 20, 32);
     font-style: italic;
