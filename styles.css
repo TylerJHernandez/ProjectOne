@@ -3,6 +3,10 @@ body{
     background-color: azure;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 h2 {  font-size:50px;
     color:rgb(97, 20, 32);
     font-style: italic;
@@ -40,6 +44,33 @@ font-family: 'Montserrat', sans-serif;
 
 }
 
+
+nav{
+padding: 20px;
+background-color: antiquewhite;
+position: fixed;
+width: 100%;
+}
+
+.nav-links{
+    list-style-type: none;
+    width: 300px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.nav-links li{
+    display: inline;
+}
+
+#myfirstid{
+
+}
+
+.nav-links li a{
+padding-left: 10px;
+padding-right: 10px;
+}
 .top-banner{
     height:240px;
     text-align:center;
